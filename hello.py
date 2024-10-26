@@ -6,6 +6,6 @@ st.set_page_config(
 )
 
 st.write("# Welcome to Streamlit projects! 👋")
-st.write("## This is a simple net wage calculator for employees and tax bracket comparison for IT Consultants")
+st.write("### This is a simple net wage calculator for employees and tax bracket comparison for IT Consultants")
 
 st.sidebar.success("Select a demo above.")
